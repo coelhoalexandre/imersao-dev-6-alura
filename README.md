@@ -12,13 +12,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em_Progresso-blue.svg" alt="Em Progresso">
 
 
 </div>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/LICENSE)  ![In Progress](https://img.shields.io/badge/In_Progress-blue.svg)
-  
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
