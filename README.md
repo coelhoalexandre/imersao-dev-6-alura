@@ -44,18 +44,18 @@ Todos os projetos foram realizados seguindo como base as aulas da Imersão Dev 6
 
 ### Paulo Silveira (CEO da Alura)
 
-<a href="https://www.linkedin.com/in/paulosilveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"></a>
-<a href = "https://github.com/peas" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/paulosilveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "https://github.com/peas" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 
 ### Rafaella Ballerini (Instrutora Front-end da Alura)
 
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"></a>
-<a href = "https://github.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "https://github.com/rafaballerini"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
 
 ### Guilherme Lima (Instrutore da Imersão Dev da Alura)
 
-<a href="https://www.linkedin.com/in/guilherme-lima-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"></a>
-<a href = "https://github.com/guilhermeonrails" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/guilherme-lima-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "https://github.com/guilhermeonrails" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 
 ## Como Executar o Projeto
 
