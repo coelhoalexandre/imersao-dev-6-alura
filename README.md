@@ -58,4 +58,4 @@ Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso dese
 </div>
 
 <div align="center">
-  <a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula01/"><img src="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/favicon.ico" alt="Moedas Azuis" width="15px"> Aula 01 - Conversão de Real para outras Moedas</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/README.md">README</a>
+  <a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula01/"><img src="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/Moedas%20Azuis.png" alt="Moedas Azuis" width="15px"> Aula 01 - Conversão de Real para outras Moedas</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/README.md">README</a>
