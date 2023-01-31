@@ -49,9 +49,13 @@ Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimen
 <a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
 
 
+<div align="left">
 
 ## Como Vizualizar os Projetos
 
 Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso deseje saber como foi o processo, logo ao lado estará o ReadMe de cada projeto.
 
+</div>
+
+<div align="center">
   <a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula01/"><img src="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/favicon.ico" alt="Moedas Azuis" width="15px"> Aula 01 - Conversão de Real para outras Moedas</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/README.md">README</a>
