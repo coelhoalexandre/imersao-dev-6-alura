@@ -73,7 +73,7 @@ Curioso? A seguir, link para acessar o site: <a href="https://coelhoalexandre.gi
 
 ## Autor
 
-Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimento Web. Logo colocarei os links para vizualizar os projetos, porém antes disponiblizarei os meus principais links para vocês darem uma olhada no que mais interessa-los: 
+Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimento Web. Aqui estão os meus principais links para você dar uma olhada no que mais interessa-lo.
 
 <div align="center">
 
