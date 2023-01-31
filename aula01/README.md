@@ -1,4 +1,4 @@
-<h1 align="center"> Imersão Dev 6 </h1>
+<h1 align="center"> Imersão Dev 6 | Aula 01</h1>
 
 <div align="center">
   <img src="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/Moedas%20Azuis.png" alt="Moedas Azuis" height="100px">
