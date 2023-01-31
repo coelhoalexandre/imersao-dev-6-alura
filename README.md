@@ -30,9 +30,9 @@ Todos os projetos foram realizados seguindo como base as aulas da Imersão Dev 6
 ### Rafaella Ballerini (Instrutora Front-end da Alura)
 
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href = "https://github.com/rafaballerini"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
+<a href = "https://github.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub Badge"></a>
 
-### Guilherme Lima (Instrutore da Imersão Dev da Alura)
+### Guilherme Lima (Instrutor da Imersão Dev da Alura)
 
 <a href="https://www.linkedin.com/in/guilherme-lima-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href = "https://github.com/guilhermeonrails" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
@@ -44,7 +44,7 @@ Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimen
 <div align="center">
 
 <a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge">
-<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href = "https://github.com/coelhoalexandre"  target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 <a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
 
@@ -55,8 +55,15 @@ Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimen
 
 Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso deseje saber como foi o processo, logo ao lado estará o ReadMe de cada projeto.
 
+</div>
+
   <br>
+  
+<div align="left">
+  
 
 - <a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula01/" target="_blank"> Aula 01 - Conversão de Real para outras Moedas</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/README.md" target="_blank">README</a>
+  
+ </div>
 
-</div>
+
