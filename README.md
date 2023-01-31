@@ -14,28 +14,7 @@
 
   <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em_Progresso-blue.svg" alt="Em Progresso">
 
-
 </div>
-
-## Sumário
-
-- [Sobre o Projeto](#sobre-o-projeto)
-  - [Status](#status)
-  - [Por quê?](#por-quê)
-- [Como Executar o Projeto?](#como-executar-o-projeto)
-  - [Front-end](#front-end)
-  - [Back-end](#back-end)
-- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-  - [Front-end](#front-end)
-  - [Back-end](#back-end)
-  - [Implementação](#implementação)
-- [Processo de Desenvolvimento](#processo-de-desenvolvimento)
-  - [(Roteiro / Diario) de desenvolvimento](#roteiro--diario-de-desenvolvimento)
-  - [Layout Mobile](#layout-mobile)
-  - [Layout Web](#layout-web)
-  - [Modelo Conceitual](#modelo-conceitual)
-- [Contribuição](#contribuição)
-- [Autor](#autores)
 
 ## Visão Geral
 
@@ -58,65 +37,20 @@ Todos os projetos foram realizados seguindo como base as aulas da Imersão Dev 6
 <a href="https://www.linkedin.com/in/guilherme-lima-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href = "https://github.com/guilhermeonrails" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 
-## Como Executar o Projeto
+## Autor
 
-### Front-end
+Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimento Web. Logo colocarei os links para vizualizar os projetos, porém antes disponiblizarei os meus principais links para vocês darem uma olhada no que mais interessa-los: 
 
-1.
-2.
-3.
+<div align="center">
 
-### Back-end
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge">
+<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
 
-1.
-2.
-3.
+</div>
 
-## Tecnolgias Utilizadas
+## Como Vizualizar os Projetos
 
-### Front-end
+Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso deseje saber como foi o processo, logo ao lado estará o ReadMe de cada projeto.
 
-1. 
-2.
-3.
-
-### Back-end
-
-1.
-2.
-3.
-
-### Implementação
-
-1.
-2.
-3.
-
-## Processo de Desenvolvimento 
-
-### (Roteiro / Diario) de desenvolvimento
-
-- Link externo para aba projetos, ou um lugar onde esteja todo relato de desenvolvimento
-
-### Layout Mobile
-
-- Imagens
-
-### Layout Web
-
-- Imagens
-
-### Modelo Conceitual
-
-- Imagens
-
-## Contribuição
-
-- Por que contribuir?
-- Quem contribuiu?
-- Como contribui?
-
-## Autor(es)
-
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
