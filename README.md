@@ -51,7 +51,7 @@ Oi, eu sou Alexandre Coelho! Sou autor deste ReadMe e estudante de Desenvolvimen
 
 <div align="left">
 
-## Como Vizualizar os Projetos
+<h2>Como Vizualizar os Projetos</h2>
 
 Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso deseje saber como foi o processo, logo ao lado estará o ReadMe de cada projeto.
 
