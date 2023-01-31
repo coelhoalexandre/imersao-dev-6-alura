@@ -1,8 +1,9 @@
 <h1 align="center"> Imersão Dev 6 </h1>
 
 <div align="center">
-
-  <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" alt="Logo da Imersão Dev">
+  <img src="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula01/Moedas%20Azuis.png" alt="Moedas Azuis" height="100px">
+  <br>
+  <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" alt="Logo da Imersão Dev"> 
   
 </div>
 
@@ -12,7 +13,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em_Progresso-blue.svg" alt="Em Progresso">
+  <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Concluído-sucess.svg" alt="Concluído">
 
 </div>
 
