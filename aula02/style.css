@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    text-align: center;
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background_mentalista.png");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+
+
+  img.brain {
+    max-width: 300px;
+  }
+  
+  button {
+    margin-top: 10px;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 35px;
+
+    background-color: rgba(238, 130, 238, 0.658);
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: .2s all ease-in-out;
+  }
+
+  button:hover{
+    background-color: rgba(137, 43, 226, 0.74);
+    transform: scale(1.1);
+  }
+
+  p {
+    margin: 15px 0px;
+  }
+
+  .badge {
+    margin: 0px 10px;
+    transition: 0.2s all ease-in-out;
+  }
+  .badge:hover {
+    transform: scale(1.1);
+  }
+  
+@media screen and (min-width: 500px) {
+  img.brain {
+    max-width: 400px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  img.brain {
+    max-width: 500px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  img.brain {
+    max-width: 600px;
+  }
+}
