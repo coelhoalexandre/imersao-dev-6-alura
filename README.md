@@ -66,6 +66,8 @@ Para vizualizar os projetos basta clicar no links que estarão abaixo. Caso dese
 
 
    <li><a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula02/" target="_blank"> Aula 02 - Mentalista</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula02/README.md" target="_blank">README</a>
+   
+   <li><a href="https://coelhoalexandre.github.io/imersao-dev-6-alura/aula03/" target="_blank"> Aula 03 - AluraFlix</a> | <a href="https://github.com/coelhoalexandre/imersao-dev-6-alura/blob/main/aula03/README.md" target="_blank">README</a>
 
 
 
