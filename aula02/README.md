@@ -18,7 +18,7 @@
 
 Projeto realizado enquanto assistia a aula 02 da Imersão Dev 6 e posteriormente modificado por mim.
 
-Enquanto este ReadMe está sendo escrito, a aula ainda está liberada. Pode ser acessada através deste link: <a href=https://imersao.dev/aulas/aula02-mentalista">Imersão Dev 6 - Aula 02</a>.
+Enquanto este ReadMe está sendo escrito, a aula ainda está liberada. Pode ser acessada através deste link: <a href="https://imersao.dev/aulas/aula02-mentalista">Imersão Dev 6 - Aula 02</a>.
 
 ## Modificações
 
