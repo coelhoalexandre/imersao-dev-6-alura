@@ -1,38 +1,33 @@
 var addMovieBtn = document.querySelector('#add-movie-btn');
 
-var arrayListMovies = [];
+function removeMovie(event) {
+
+  event.target.parentElement.remove();
+
+}
 
 addMovieBtn.addEventListener('click', () => {
   var movieAddressInput = document.querySelector('#img-movie-input').value;
   var movieNameInput = document.querySelector('#name-movie-input').value;
-  var listMovies = document.querySelector('#list-movies');
+  var elementListMovies = document.querySelector('#list-movies');
+  var item = document.createElement("div");
+  item.classList.add("card-filme");
+  var movieName = document.createElement("span");
+  var img = document.createElement("img");
+  var removeBtn = document.createElement("button");
+
+  img.src = movieAddressInput;
+  // img.addEventListener("click", removeMovie);
+  movieName.innerHTML = movieNameInput;
+  removeBtn.innerHTML = "Remover";
+  removeBtn.addEventListener("click", removeMovie);
+
+  item.appendChild(movieName);
+  item.appendChild(img);
+  item.appendChild(removeBtn);
+  elementListMovies.appendChild(item);
   
-  arrayListMovies.push(`<div class="container-movie"><span class="remove-movie-btn">X</span> <br> <img src="${movieAddressInput}" alt="${movieNameInput}"> <br> <span>${movieNameInput}</span></div>`) 
-
-  document.querySelector('#img-movie-input').value = ''
-  document.querySelector('#name-movie-input').value = ''
-
-  listMovies.innerHTML += arrayListMovies[arrayListMovies.length - 1]
-
-  let removeBtns = document.querySelectorAll('.remove-movie-btn');
-  
-  for (let i = 0; i < removeBtns.length; i++) {
-
-    removeBtns[i].addEventListener('click', function() {
-        removeMovie(i);
-        
-    });
-  }
+  // document.querySelector('#img-movie-input').value = '';
+  // document.querySelector('#name-movie-input').value = '';
 });
 
-function removeMovie(index) {
-
-    var containersMovies = document.querySelectorAll('.container-movie');
-
-    containersMovies[index].remove();
-
-teste
-}
-// removeMovieBtn.addEventListener('click', () => {
-//   var removeMovieBtn = document.querySelectorAll('#remove-movie-btn');
-// });

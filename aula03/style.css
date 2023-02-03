@@ -61,6 +61,7 @@ body {
   #movies-list {
     max-width: 800px;
   }
+  
   div > img {
     max-height: 250px;
     margin: 5px 10px;

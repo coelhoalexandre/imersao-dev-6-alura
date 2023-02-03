@@ -43,7 +43,7 @@
   div.list-imgs-movies {
     display: flex;
     justify-content: center;
-    width: 100vw;
+    
   }
   
   div#list-movies {
@@ -58,6 +58,33 @@
   #list-movies img {
     margin: 10px;
     max-height: 250px;
+  }
+
+  .card-filme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    margin-bottom: 10px;
+  }
+
+  .card-filme button {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+
+    color: #ffffff;
+    background: #da1e26;
+    font-weight: bold;
+
+    cursor: pointer;
+    transition: .3s all ease-in-out;
+  }
+
+  .card-filme button:hover {
+    opacity: 0.6;
+    transform: scale(1.1);
   }
   
   .form-wrapper {
