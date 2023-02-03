@@ -7,6 +7,7 @@
   
   body {
     font-family: "Roboto Mono", monospace;
+    color: white;
     min-height: 400px;
     width: 100vw;
     background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/tabela-classificacao-bg.png");
@@ -79,6 +80,26 @@
     color: #f6f6f6;
     cursor: pointer;
   }
+
+  div.mark {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    padding: 10px;
+  }
+  p {
+    margin: 10px 0px;
+  }
+
+  .badge {
+    margin: 0px 10px;
+    transition: 0.2s all ease-in-out;
+  }
+
+  .badge:hover {
+    transform: scale(1.1);
+  }
+
 
 
   @media screen and (max-width: 1000px) {
