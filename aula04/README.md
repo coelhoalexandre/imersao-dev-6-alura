@@ -22,8 +22,10 @@ Enquanto este ReadMe está sendo escrito, a aula ainda está liberada. Pode ser 
 
 ## Modificações
 
-- Adicionei um botão "X" que pode eliminar a imagem
-- Adicionei um input onde é possivel adicionar o nome do filme
+- A principio eu fiz com X, entrentanto apresentava alguns bugs quando tentava remover o elemento;
+- O **[Instrutor Guilherme Lima](https://github.com/guilhermeonrails)** mostrou uma forma de rmeover elementos e eu resolvi aderir;
+- Nesta forma, é possivel ver o botão abaixo da imagem, onde ele a remove e sem apresentar bugs quando remove diversas imagens;
+- Uma adição que fiz na propria solução de Guilherme, é adicionar o nome do filme em cima da imagem.
 
 ## Instrutores
 
