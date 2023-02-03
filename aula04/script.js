@@ -31,7 +31,7 @@ function removeMovie(index) {
 
     containersMovies[index].remove();
 
-
+teste
 }
 // removeMovieBtn.addEventListener('click', () => {
 //   var removeMovieBtn = document.querySelectorAll('#remove-movie-btn');
