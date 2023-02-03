@@ -27,7 +27,7 @@ addMovieBtn.addEventListener('click', () => {
   item.appendChild(removeBtn);
   elementListMovies.appendChild(item);
   
-  // document.querySelector('#img-movie-input').value = '';
-  // document.querySelector('#name-movie-input').value = '';
+  document.querySelector('#img-movie-input').value = '';
+  document.querySelector('#name-movie-input').value = '';
 });
 
